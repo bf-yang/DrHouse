@@ -1,12 +1,21 @@
-{### dialogue
-Patient: Two days after stopping medication for pneumonia treatment, I started to have a low fever again. I began to have a fever with mild coughing on December 1, took medication at home, and then had a high fever that did not subside on December 4. I was diagnosed with pneumonia again at the hospital, admitted for 6 days, the fever subsided after 4 days, and everything was normal upon discharge on December 11. After 1.5 days, I had a fever of 37.5°C at night, took antipyretic medication to reduce the fever, and then had a fever of 38°C after 10 hours, which subsided after taking fever-reducing medication. On the 13th, in the early morning, 15 hours after the last fever, I had a fever of 37.5°C again. Please treat according to my condition.
-Doctor: What is your gender and how old are you?
-Patient: I am male and 30 years old.
-Doctor: Based on the description, consider it a recurrent infection, let's first do a routine blood test and CRP.
-Patient: I'm active during the day, but sometimes my temperature goes up to 37.9°C. Should I take antipyretic medication?
-Doctor: What is your heart rate, respiratory rate, sleep conditions, and SpO2 levels?
-Patient: Sorry, I'm not sure about these information.
-Doctor: If there is no history of seizures, use antipyretic medication for a temperature above 38.5°C.
-Patient: I had a high fever with convulsions once a year ago. Now, should I just let her keep having a fever without taking antipyretic medication, or should I use physical methods to cool down?
-Doctor: Let's do a blood test first? If there was a seizure before, take oral antipyretic medication at 38°C. You can also use physical methods to cool down.
-}
+### Dialogue Example
+
+**Patient:** Two days after stopping medication for pneumonia treatment, I started to have a low fever again. I began to have a fever with mild coughing on December 1, took medication at home, and then had a high fever that did not subside on December 4. I was diagnosed with pneumonia again at the hospital, admitted for 6 days, the fever subsided after 4 days, and everything was normal upon discharge on December 11. After 1.5 days, I had a fever of 37.5°C at night, took antipyretic medication to reduce the fever, and then had a fever of 38°C after 10 hours, which subsided after taking fever-reducing medication. On the 13th, in the early morning, 15 hours after the last fever, I had a fever of 37.5°C again. Please treat according to my condition.
+
+**Doctor:** What is your gender and how old are you?
+
+**Patient:** I am male and 30 years old.
+
+**Doctor:** Based on the description, consider it a recurrent infection, let's first do a routine blood test and CRP.
+
+**Patient:** I'm active during the day, but sometimes my temperature goes up to 37.9°C. Should I take antipyretic medication?
+
+**Doctor:** What is your heart rate, respiratory rate, sleep conditions, and SpO2 levels?
+
+**Patient:** Sorry, I'm not sure about these information.
+
+**Doctor:** If there is no history of seizures, use antipyretic medication for a temperature above 38.5°C.
+
+**Patient:** I had a high fever with convulsions once a year ago. Now, should I just let her keep having a fever without taking antipyretic medication, or should I use physical methods to cool down?
+
+**Doctor:** Let's do a blood test first? If there was a seizure before, take oral antipyretic medication at 38°C. You can also use physical methods to cool down.
