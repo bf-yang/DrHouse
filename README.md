@@ -25,7 +25,7 @@
 
 We introduce DrHouse, a novel LLM-based multi-turn consultation virtual doctor system, which incorporates three significant contributions: 1) It utilizes sensor data from smart devices in the diagnosis process, enhancing accuracy and reliability. 2) DrHouse leverages continuously updating medical knowledge bases to ensure its model remains at diagnostic standard’s forefront. 3) DrHouse introduces a novel diagnostic algorithm that concurrently evaluates potential diseases and their likelihood, facilitating more nuanced and informed medical assessments. Through multi-turn interactions, DrHouse determines the next steps, such as accessing daily data from smart devices or requesting in-lab tests, and progressively refines its diagnoses.
 
-## Project Structure
+## 📂 Project Structure
 ```
 DrHouse/
 ├─ checkpoints/
@@ -50,7 +50,7 @@ DrHouse/
 ├─ requirements.txt
 ```
 
-## Installation
+## ⚙️ Installation
 
 1. **Clone the repository:**
 ```bash
@@ -64,7 +64,7 @@ conda env create -f environment.yml
 conda activate drhouse
 ```
 
-## Usage
+## ▶️ Usage
 
 ### Setup
 
@@ -107,7 +107,7 @@ python src/mainWebUI.py
 2. Run the Android app: `Interaction-Speak-Sockets-Android`
 
 
-## Citation
+## 🔗 Citation
 
 If you find our work helpful, please consider citing:
 
