@@ -8,7 +8,7 @@
     <a href='https://initxu.github.io/' target='_blank'>Lilin Xu</a>&emsp;
     <a href='https://www.linkedin.com/in/kaiwei-liu-743567219/?originalSubdomain=hk' target='_blank'>Kaiwei Liu</a>&emsp;
     <a target='_blank'>Hai Li</a>&emsp;
-    <a href='https://staff.ie.cuhk.edu.hk/~glxing/' target='_blank'>Guoliang Xing</a>&emsp;
+    <a href='https://staff.ie.cuhk.edu.hk/~glxing/' target='_blank'>Guoliang Xing</a>&emsp;<br>
     <a href='https://www.ie.cuhk.edu.hk/faculty/chen-hongkai/' target='_blank'>Hongkai Chen</a>&emsp;
     <a href='http://fredjiang.com/' target='_blank'>Xiaofan Jiang</a>&emsp;
     <a href='https://yanzhenyu.com/' target='_blank'>Zhenyu Yan‡</a>&emsp;
