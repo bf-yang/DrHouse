@@ -1,2 +1,0 @@
-split_dataset.ipynb: split our collected dataset into training and test sets.
-examples.txt are the few-shot demos, which are randomly selected from the train.xlsx. This is used from LLM few-shot experiments.

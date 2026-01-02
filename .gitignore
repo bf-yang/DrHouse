@@ -11,7 +11,12 @@ src/mainWebUI.py
 exp_simulation/data/simulated_sensor_data
 exp_real/data
 exp_real/results
+exp_simulation/data
+exp_simulation/results
 data/medical_sources
 data/Symptom2Disease
 data/adaptive_retrieval_dataset
 data/medical_database_chroma
+src/adaptive_retrieval/data
+src/baseLLMs/outputs
+src/guideline_tree_retrieval/data

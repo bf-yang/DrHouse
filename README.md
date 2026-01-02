@@ -30,26 +30,13 @@ We introduce DrHouse, a novel LLM-based multi-turn consultation virtual doctor s
 DrHouse/
 ├─ checkpoints/
 ├─ data/
-│  ├─ adaptive_retrieval_dataset/
-│  ├─ guideline_trees/
-│  ├─ medical_database_chroma/
-│  ├─ medical_dialogues/
-│  ├─ medical_sources/
-│  ├─ Symptom2Disease/
 ├─ exp_real/
-│  ├─ data/
-│  ├─ results/
-│  ├─ create_sensordata_vector_db.py
 ├─ exp_simulation/
-│  ├─ data/
-│  ├─ results/
-│  ├─ create_sensordata_vector_db.py
-├─ figs/
 ├─ prompt/
 ├─ src/
 │  ├─ adaptive_retrieval/
 │  ├─ baselines/
-│  ├─ code_generation/
+│  ├─ baseLLMs/
 │  ├─ guideline_tree_retrieval/
 │  ├─ simulation/
 │  ├─ create_medical_database.py
