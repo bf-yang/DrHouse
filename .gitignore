@@ -12,3 +12,6 @@ exp_simulation/data/simulated_sensor_data
 exp_real/data
 exp_real/results
 data/medical_sources
+data/Symptom2Disease
+data/adaptive_retrieval_dataset
+data/medical_database_chroma
