@@ -1,0 +1,15 @@
+Patient with a clinical diagnosis of seborrheic dermatitis of the scalp/hairy areas
+
+Assess severity
+
+if Mild:
+	action:
+	Antifungal shampoo (e.g, ketoconazole 2% shampoo) 2 to 3 times per week (refer to Inset). Assess at 4 weeks. If improvement, continue antifungal shampoo once or twice weekly to prevent relapse. Else jump to moderate and severe.
+elif Moderate to severe : 
+	action:
+	Antifungal shampoo 12 to 3 times per week (refer to Inset) plus High-potency topical corticosteroid(foam, lotion, spray, or shampoo) once daily until symptoms subside orup to 4 weeks. Assess at 4 weeks. 
+	If improvement:
+		 continue antifungal shampoo once or twice weekly to prevent relapse.
+	else if no improvement:
+		Trial of systemic antifungal(e.g, itraconazole 200 mg orallyonce daily for 7 days). Assess at 4 weeks. If improvement, continue antifungal shampoo once or twice weekly to prevent relapse. Else, if no improvement, reconsider diagnosis.
+	

@@ -1,0 +1,49 @@
+Community-acquired pneumonia: Empiric outpatient antibiotic selection in adults
+
+Are any of the following present?
+• Major comorbidities*
+• Recent antibiotic use
+• Older age (≥65 years)
+• Smoking
+• Alcohol dependence
+
+                    Yes                                          No
+          ┌─────────────────────┐                      ┌─────────────────────┐
+          │ Penicillin allergy or │                      │ Penicillin allergy or │
+          │ other intolerance?    │                      │ other intolerance?    │
+          └─────────────────────┘                      └─────────────────────┘
+                    │                                                │
+                  Yes                                                No
+                    │                                                │
+        ┌─────────────────────┐                      ┌─────────────────────┐
+        │ Able to use          │                      │ Amoxicillin-clavulanate │
+        │ cephalosporins?¹     │                      │ plus one of the following: │
+        └─────────────────────┘                      │ A macrolide^ (preferred) │
+                    │                                                │ or doxycycline
+                  Yes                                                │
+                    │                                                │
+        ┌─────────────────────┐                      ┌─────────────────────┐
+        │ Third-generation    │                      │ Structural lung disease │
+        │ cephalosporin       │                      │ (eg, advanced COPD?)     │
+        │ plus one of the     │                      └─────────────────────┘
+        │ following:          │                                       │
+        │ A macrolide^ (preferred)                  Yes                           No
+        │ or doxycycline                              │                            │
+        └─────────────────────┘                ┌─────────────────────┐  ┌─────────────────────┐
+                                                 │ Our approach^:         │  │ Our approach^:         │
+                                                 │ Third generation      │  │ Amoxicillin plus either │
+                                                 │ cephalosporin plus    │  │ a macrolide^ (preferred)│
+                                                 │ either a macrolide^   │  │ or doxycycline          │
+                                                 │ (preferred) or        │  └─────────────────────┘
+                                                 │ doxycycline           │
+                  ┌─────────────────────┐  └─────────────────────┘  ┌─────────────────────┐
+                  │ Our approach^:         │                          │ ATS/IDSA approach^:     │
+                  │ A respiratory          │                          │ Amoxicillin monotherapy │
+                  │ fluoroquinolone,       │                          └─────────────────────┘
+                  │ lefamulin^,            │
+                  │ or omadacycline^       │
+                  └─────────────────────┘
+
+Our approach^: A macrolide^ or doxycycline
+ATS/IDSA approach^: A macrolide^ or doxycycline (if local S. pneumoniae resistance rates
+are known and <25%; in most of the United States resistance rates are higher than 25%)^

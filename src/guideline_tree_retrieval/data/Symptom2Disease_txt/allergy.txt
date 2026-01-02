@@ -1,0 +1,43 @@
+The image contains a flowchart titled "Approach to penicillin allergy" with additional information on how to handle a patient's reported penicillin allergy. Here is the text extracted from the image:
+
+Approach to penicillin allergy
+
+Patient reports a past reaction to a penicillin AND has a medical indication for a penicillin
+    |
+    |------------------------
+    |                       |
+Take detailed history of   |
+past reaction(s)*         |
+    |                       |
+    |------------------------
+    |                       |                       |
+Allergy excluded        History concerning for  History too vague to  History suggests
+based on history¶       immediate reaction∆     categorize (most patients  delayed reaction
+                                                are in this category)
+    |                       |                       |                       |
+Give penicillin or      Allergist                Evaluate for
+related drug normally   available?               delayed reaction⊕
+                            |
+                            |----------------
+                            |                |
+                        Yes                No
+                            |                |
+Refer to allergist    Avoid penicillins
+for skin testing     Treat patient with
+                     alternative agent§
+
+*A penicillin allergy history includes the following:
+- Each agent reportedly associated with a reaction and the indication for its use (to make sure that the agent matches the indication).
+- The exact signs and symptoms that occurred, in as much detail as the patient and/or medical record can provide.
+- When the reaction occurred (ie, how long ago) and at what point in therapy (immediately after starting or later in course).
+- The dose and route of medication taken (if known).
+- Other concurrent medications, especially if they were new or temporary.
+- Any treatment given and response to that treatment (including the duration of reaction).
+
+¶Allergy can be excluded based upon history if:
+- Reaction was not allergic (eg, isolated nausea or diarrhea, yeast vaginitis, other predictable adverse effect of drug) or
+- Patient never took a penicillin but has family members with penicillin allergy.
+
+∆ History concerning for immediate reaction
+⊕ Evaluate for delayed reaction
+§ Treat patient with alternative agent

@@ -1,0 +1,45 @@
+Screening for diabetes in pregnant and postpartum patients
+
+Does the patient have risk factors for unrecognized diabetes at the first prenatal visit?*
+          ┌─────────────────────┐
+          │         Yes         │
+          └─────────────────────┘
+                   │
+   Consider testing¶ for diabetesΔ
+                   │
+         ┌─────────┴─────────┐
+         │   Positive test   │
+         └─────────┬─────────┘
+                   │
+     Begin standard management of diabetes in pregnancy
+                   │
+         ┌─────────┴─────────┐
+         │   Negative test   │
+         └─────────┬─────────┘
+                   │
+ Screen for gestational diabetes at 24 to 28 weeks of gestationΦ
+                   │
+         ┌─────────┴─────────┐
+         │   Positive test   │
+         └─────────┬─────────┘
+                   │
+Begin standard management of gestational diabetes, and perform a GTT 4 to 12 weeks after delivery using the 2-hour 75 gram GTT§
+                   │
+         ┌─────────┴─────────┐
+         │   Negative test   │
+         └─────────┬─────────┘
+                   │
+     Routine pregnancy and postpartum care
+                   │
+         ┌─────────┴─────────┐
+         │   Negative test   │
+         └─────────┬─────────┘
+                   │
+In addition to routine postpartum care:
+- Refer for ongoing management of type 2 diabetes
+- Discuss risks in and planning for future pregnancy
+
+In addition to routine postpartum care:
+- Counsel regarding future risk for type 2 diabetes and cardiovascular disease
+- Discuss lifestyle interventions to reduce risk (eg, diet and exercise), as appropriate
+- Screening for type 2 diabetes at a minimum of every 3 years§

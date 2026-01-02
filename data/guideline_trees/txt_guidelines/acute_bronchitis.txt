@@ -1,0 +1,33 @@
+Step1:
+Compatible clinical syndrome in a patient without COPD (chronic obstructive pulmonary disease), usually characterized by acute onset but persistent cough:
+1. typically lasting approximately 5 days to 3 weeks
+2. With or without sputum production
+3. May be accompanied by mild dyspnea of wheeze
+
+Step2:
+Test for COVID-19, continue evaluation and advise isolation while awaiting results.
+
+Step3:
+if: 
+suspicion for other causes of the patient's symptoms (eg, heart failure, GERD, postnasal drip, ACE inhibitor use)?
+	action:
+	Evaluate for other causes based on clinical suspicion
+elif: 
+	Step4:
+	concern for pneumonia based on any of the following?
+	temperature > 38 
+	Pulse > 100 bpm
+	Respiratory rate > 22 bpm
+	Hypoxia (oxygen saturation < 95%)
+	if yes:
+		action:
+		obtain a chest radiograph to assess for pneumonia. 
+		pursue additional testing based on the results, severity of illness, and whether a specific pathogen is suspected.
+	elif:
+		Step5:
+		concern for infection with a specific pathogen that would change management (eg, pertussis, influenza)?
+		if yes:
+			evaluate for the suspected pathogen.
+		elif:
+			a clinical diagnosis of acute bronchitis can be made.
+	

@@ -1,0 +1,8 @@
+Pneumonia.
+Community-acquired pneumonia (CAP) is a leading cause of morbidity and mortality worldwide.
+
+Making the diagnosis — The diagnosis of CAP generally requires the demonstration of an infiltrate on chest imaging in a patient with a clinically compatible syndrome (eg, fever, dyspnea, cough, and sputum production)
+- For most patients with suspected CAP, we obtain posteroanterior and lateral chest radiographs.
+- For selected patients in whom CAP is suspected based on clinical features despite a negative chest radiograph, we obtain computed tomography (CT) of the chest. These patients include immunocompromised patients, who may not mount strong inflammatory responses and thus have negative chest radiographs, as well as patients with known exposures to epidemic pathogens that cause pneumonia (eg, Legionella). Because there is no direct evidence to suggest that CT scanning improves outcomes for most patients and cost is high, we do not routinely obtain CT scans when evaluating patients for CAP.
+
+- Although certain signs and symptom such as fever, cough, tachycardia, and rales are common among patients with CAP, these features are ultimately nonspecific and are shared among many respiratory disorders. No individual symptom or constellation of symptoms is adequate for diagnosis without chest imaging. For example, the positive predictive value of the combination of fever, tachycardia, rales, and hypoxia (oxygen saturation <95 percent) among patients with respiratory complaints presenting to primary care was <60 percent when chest radiograph was used as a reference standard.

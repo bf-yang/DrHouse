@@ -1,0 +1,25 @@
+Guideline approaches to initial asthma therapy in adolescents and adults
+
+National Asthma Education and Prevention Program: Expert Panel Working Group[1,2]
+
+Asthma symptoms/lung function            Therapy*
+-----------------------------------------------------------------------------------------
+Step 1
+All of the following:
+  - Daytime symptoms ≤2 days/week
+  - Nocturnal awakenings ≤2/month
+  - Normal FEV1
+  - Exacerbations ≤1/year
+                                         - SABA, as needed
+
+Global Initiative for Asthma (GINA)[3]
+
+Asthma symptoms                          Therapy
+-----------------------------------------------------------------------------------------
+Step 1
+  - Infrequent asthma symptoms (eg, <2 times/week)
+  - No risk factors for exacerbations¶
+                                         - Low-dose ICS-formoterol as needed (preferred)Δ
+                                         or
+                                         - Low-dose ICS whenever SABA used or as-needed
+                                           low-dose ICS-SABAΔ

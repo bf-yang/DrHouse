@@ -1,0 +1,7 @@
+Patients with red flags generally require urgent evaluation. This typically includes imagingand/or testing based on the clinical concern (eg, laboratory tests and cultures if infection issuspected, electrocardiogram if angina pectoris is suspected).
+For patients without red flags, the evaluation consists of the following:
+	- A detailed history and physical examination
+	- Neurologic assessment
+	- Assessment of radicular symptoms or signs using provocative maneuvers
+
+Most patients with atraumatic neck pain without red flags do not require imaging. Imaging(eg, cervical spine radiography, CT, or MRI) is generally reserved for patients with red flags, patients with progressive neurologic findings, and patients with moderate tosevere neck pain (affecting sleep, daily activities, or occupation) who do not respond toconservative management over six weeks.

@@ -1,0 +1,17 @@
+Criteria for testing for diabetes or prediabetes in asymptomatic adults.
+1. Testing should be considered in adults with overweight or obesity (BMI ≥25 kg/m or ≥23 kg/m in Asian Americans) who have 1 or more of the following risk factors:
+	- First-degree relative with diabetes
+	- High-risk race/ethnicity (eg, African American, Latino, Native American, Asian American,Pacific Islander)
+	- History of CVD
+	- Hypertension (≥130/80 mmHg or on therapy for hypertension)
+	- HDL cholesterol level <35 mg/dL (0.90 mmol/L) and/or a triglyceride level >250 mg/dL (2.82mmol/L)
+	- History of PCOS
+	- Physical inactivity
+	- Other clinical conditions associated with insulin resistance (eg, severe obesity acanthosisnigricans)
+2. Patients with prediabetes (A1C ≥5.7% [39 mmol/mol], IGT, or IFG) should be tested yearly.
+3. Patients with a history of GDM should have lifelong testing at least every 3 years.
+4. For all other patients, testing should begin at age 35 years.
+5. If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results and risk status.
+6. Persons with HIV, exposure to high-risk medicines, or history of pancreatitis.
+
+A1C: glycated hemoglobin; BMI: body mass index; CVD: cardiovascular disease; GDM: gestational diabetes mellitus; HDL: high-density lipoprotein; HIV: human immunodeficiency virus; IFG: impaired fasting glucose; IGT: impaired glucose tolerance; PCOS: polycystic ovary syndrome.

@@ -1,0 +1,43 @@
+Diagnostic criteria.
+The ICHD-3 criteria for migraine without aura are the following:
+1. At least five attacks fulfilling criteria B through D.
+2. Headache attacks lasting 4 to 72 hours (untreated or unsuccessfully treated).
+3. Headache has at least two of the following characteristics:
+	- Unilateral location
+	- Pulsating quality
+	- Moderate or severe pain intensity
+	- Aggravation by or causing avoidance of routine physical activity (eg, walking orclimbing stairs)
+4. During headache, at least one of the following:
+	- Nausea, vomiting, or both
+	- Photophobia and phonophobia
+
+The ICHD-3 criteria for migraine with aura are as follows:
+1. At least two attacks fulfilling criterion B and C.
+2. One or more of the following fully reversible aura symptoms:
+	- Visual
+	- Sensory
+	- Speech and/or language
+	- Motor
+	- Brainstem
+	- Retinal
+3. At least three of the following six characteristics
+	- At least one aura symptom spreads gradually over ≥5 minutes
+	- Two or more symptoms occur in succession
+	- Each individual aura symptom lasts 5 to 60 minutes
+	- At least one aura symptom is unilateral
+	- At least one aura symptom is positive
+	- The aura is accompanied, or followed within 60 minutes, by headache
+
+Diagnostic testing — Neuroimaging is not necessary in most patients with migraine.Evidence-based guidelines issued by the American Academy of Neurology suggest considering neuroimaging in the following patients with non-acute headache:
+1. Patients with an unexplained abnormal finding on neurologic examination
+2. Patients with atypical headache features or headaches that do not fulfill the strict definition of migraine or other primary headache disorder (or have some additional risk factor, such as immune deficiency)
+
+The following clinical situations may warrant neuroimaging:
+- The "first or worst" headache
+- Recent significant change in the pattern, frequency, or severity of headaches
+- New or unexplained neurologic symptoms or signs
+- Headache always on the same side
+- Headaches not responding to treatment
+- New-onset headaches after age 50 years
+- New-onset headaches in patients with cancer or HIV infection
+- Associated symptoms and signs such as fever, stiff neck, papilledema, cognitive impairment, or personality change

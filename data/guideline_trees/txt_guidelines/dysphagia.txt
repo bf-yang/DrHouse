@@ -1,0 +1,19 @@
+Characterize the phase of swallowing that is involved
+if Sensation of food getting stuck in the esophagus(seconds after initiating a swallow):
+	Action: Suggests esophageal dysphagia
+	Are symptoms related to solid food only?
+	If yes:
+		Action: Suggests mechanicalcause
+		Are symptoms gradually progressive?
+		If yes:
+			Possible diagnoses include:1. Esosphageal stricture; 2. Esophageal/cardia cancer 
+		If no:
+			Possible diagnoses include: 1. Eosinophilic esophagitis; 2. Esophageal ring or web; 3. External compression
+	If no:
+		Action: Suggests esophageal motility disorder
+		Are symptoms gradually progressive?
+		if yes:
+			Possible diagnoses include: Achalasia and Systemic sclerosis
+		if no:
+			Possible diagnoses include: 1. Esophageal disorders of peristalsis;2. Esophagogastric junction outfow obstruction
+			

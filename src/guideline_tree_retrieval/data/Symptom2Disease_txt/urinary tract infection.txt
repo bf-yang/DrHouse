@@ -1,0 +1,55 @@
+The image contains a flowchart titled "Empiric antimicrobial selection for acute complicated urinary tract infection in adults in the outpatient setting." Below is the extracted text from the flowchart:
+
+Empiric antimicrobial selection for acute complicated urinary tract infection in adults in the outpatient setting
+
+The diagnosis of acute complicated UTI can be made in the following clinical scenarios:
+
+Cystitis symptoms and pyuria with either:
+Temperature >99.9°F (37.7°C)
+or
+Signs/symptoms of systemic illness (eg, chills, rigors, acute onset of fatigue or malaise)*
+Flank pain and/or costovertebral angle tenderness with pyuria
+Fever or sepsis in the setting of pyuria, without other evident cause of infection
+Obtain:
+
+Urine culture and susceptibility testing
+↓
+
+Are there any risk factors for an MDR infection? These include a history of any of the following in the prior 3 months:
+
+An MDR urinary isolate (ie, non-susceptible to at least one agent in three or more antimicrobial classes; this includes an ESBL-producing isolate) or a fluoroquinolone-resistant Pseudomonas urinary isolate
+Inpatient stay at health care facility (eg, hospital, nursing home, or long-term acute care facility)
+Use of a broad-spectrum antimicrobial (eg, fluoroquinolone, TMP-SMX, 3rd or later generation cephalosporin)[1]
+Travel to parts of the world with high rates of MDR organisms (including India, Israel, Spain, Mexico)
+↓
+
+Are there any of the following?
+
+Contraindication to fluoroquinolone:
+Allergy or intolerance to a fluoroquinolone
+Unmodifiable drug interactions
+High risk for fluoroquinolone resistance, specifically:
+History of fluoroquinolone-resistant urinary isolate within the prior three months
+History of fluoroquinolone use in prior three months
+↓
+
+Yes
+
+[Flowchart continues but is not visible in the image]
+
+No
+
+↓
+
+Are there any contraindications to or concerns with fluoroquinolones?
+These include:
+
+Allergy or intolerance to a fluoroquinolone
+Unmodifiable drug interactions
+[Flowchart continues but is not visible in the image]
+
+Footnotes in the flowchart:
+
+A footnote indicates additional information or clarification which is not visible in the image.
+[1] A reference or a footnote for "Use of a broad-spectrum antimicrobial" is indicated but the specific content is not visible in the image.
+Please note that the image does not show the complete flowchart, and therefore some decision pathways and outcomes are not visible. Always refer to the full clinical guidelines or consult with a healthcare professional when making treatment decisions.

@@ -1,0 +1,21 @@
+Assess severity of Gastroesophageal reflux disease (GERD)(esophagitis) symptoms:
+Mild and intermittent symptoms (fewer than two episodesper week) and no evidence of erosive esophagitis;
+Erosive esophagitis, Barrett's esophagus, frequent symptoms (two or more episodes per week), and/or severe symptomsthat impair quality of life.
+
+If Mild and intermittent GERD symptoms:
+Action:
+Initial management with the following:
+1. Initiate and continue lifestyle and dietary modification.
+2. Low dose H2RA prn.
+3. Antacids with or without sodiumalginate if symptoms <1 per week.
+4. Assess symptomatic response in 4 Weeks.
+
+if Severe or frequent GERD symptoms, erosive esophagitis or Barrett's esophagus:
+Action:
+1. Lifestyle and dietary modification.
+2. Standard dose PPI once daily.
+
+if Persistent symptoms:
+Action:
+1. Reinforce compliance and lifestyle modification.
+2. Manage as refractory GERD (Refer toUpToDate topic on refractory GERD formanagement)

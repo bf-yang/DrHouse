@@ -1,0 +1,16 @@
+Primary hypothyroidism — Primary thyroid disease accounts for over 95 percent of cases of hypothyroidism. It is due to inadequate production of thyroid hormone caused by disease of the thyroid gland.
+
+1. Overt hypothyroidism – Overt hypothyroidism is characterized by a TSH above the upper limit of the normal TSH reference range and a free T4 below the lower limit of the normal reference range.
+
+2. Subclinical hypothyroidism – Subclinical hypothyroidism is characterized by a persistently elevated TSH and a normal free T4 (algorithm 1). Other causes of an elevated TSH must be excluded.
+
+    It is important to differentiate overt and subclinical hypothyroidism because the decision to treat subclinical hypothyroidism is individualized.
+
+    We define an elevated serum TSH as a TSH concentration above the upper limit of the normal TSH reference range, which is typically 4.5 mU/L in most laboratories. There is controversy over the appropriate upper limit of normal for serum TSH. Some experts have suggested that the true upper limit is only 2.5 or 3 mU/L in healthy individuals without thyroid disease, while others argue that the serum TSH distribution shifts towards higher values with age (eg, >70 years of age), independent of the presence of antithyroid antibodies, or in class 3 obesity (body mass index ≥40 kg/m2). In these cases, the upper limit of normal could be as high as 6 to 8 mU/L in healthy octogenarians, or as high as 7.5 mU/L in class 3 obesity. This topic is reviewed in detail separately.
+
+
+Central hypothyroidism — Thyrotropin-releasing hormone (TRH) and TSH are required for normal thyroid hormone secretion. Central hypothyroidism is due to insufficient stimulation of the thyroid gland by TSH, and it is caused by either hypothalamic (tertiary hypothyroidism) or pituitary (secondary hypothyroidism) disease. Central hypothyroidism is much less common than primary hypothyroidism.
+
+In patients with central hypothyroidism, the free T4 value is low-normal or low and TSH may be frankly low, inappropriately normal (for the low T4), or slightly high (5 to 10 mU/L) due to secretion of biologically inactive TSH.
+
+In hypothyroidism caused by hypothalamic or pituitary disease, TSH secretion does not increase appropriately as T4 secretion falls. As a result, the symptoms and the serum free T4 value must be used to make the diagnosis. The clinical manifestations, diagnosis, differential diagnosis, and treatment of central hypothyroidism are reviewed in detail separately.

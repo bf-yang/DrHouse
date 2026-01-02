@@ -1,0 +1,3 @@
+- raw_guidelines: raw pdf formats from Up-to-Date
+- txt_guidelines: txt formats (if-else)
+- vector_databases: RAG database for guideline tree retrieval (only for MedDM basleine)

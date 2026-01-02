@@ -1,0 +1,34 @@
+Overview of the management of the adult patient with peptic ulcer disease
+
+Does the patient have a complicated peptic ulcer (e.g., bleeding, gastric outlet obstruction, penetration)?
+
+Yes                                       No
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Antisecretory therapy with a PPI*                                                                                        │
+│ Assess etiology of peptic ulcer disease¶                                                                                 │
+│ Discontinue aspirin/NSAIDs                                                                                               │
+│ Eradicate H. pylori if present and confirm eradication                                                                   │
+│ Perform a repeat upper endoscopy if indicatedΔ                                                                           │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                                 Is the ulcer secondary to
+                                                                 H. pylori?
+                                                                 Yes
+                                                                 ├────────────────────────────────────────────────────────────────────┐
+                                                                 │ Treat with PPI for 14 days with an appropriate combination         │
+                                                                 │ antibiotic regimen for H. pylori                                   │
+                                                                 │ Confirm H. pylori eradication                                      │
+                                                                 │ Perform a repeat upper endoscopy if indicatedΔ                     │
+                                                                 │ Does the patient have one of the following indications for         │
+                                                                 │ continued long term acid suppression?                              │
+                                                                 │ • Persistent ulcer on repeat endoscopy (if performed)             │
+                                                                 │ • Giant (>2 cm) peptic ulcer and age >50 years or                 │
+                                                                 │   multiple co-morbidities                                         │
+                                                                 │ • History of frequently recurrent peptic ulcers                    │
+                                                                 │   (>2 documented recurrences a year)                               │
+                                                                 │ • Complication requiring long term aspirin/NSAID use               │
+                                                                 │ • Failure of H. pylori eradication (including salvage therapy)     │
+                                                                 └────────────────────────────────────────────────────────────────────┘
+Is the ulcer likely
+secondary to
+aspirin/NSAID use?
+No

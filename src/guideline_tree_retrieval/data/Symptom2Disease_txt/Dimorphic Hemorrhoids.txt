@@ -1,0 +1,41 @@
+Approach to evaluation of an adult patient with suspected hemorrhoidal bleeding
+
+Initial assessment with history and digital rectal examination*[1]
+
+Are hemorrhoids detected on digital rectal examination?
+    ┌─────┐         ┌────┐
+    │ Yes │         │ No │
+    └─────┘         └────┘
+      │              │
+      │          Perform anoscopy
+      │              │
+      │     Are hemorrhoids detected on anoscopy?
+      │    ┌─────┐         ┌────┐
+      │    │ Yes │         │ No │
+      │    └─────┘         └────┘
+      │      │              │
+      │      └───────┐      │
+      │              │      │
+      │              │      │
+      │              │ Endoscopic evaluation of symptomsΔ
+      │              │
+Does the patient have any of the following?
+• Melena, dark red blood per rectum, or postural vital sign abnormalities
+• Systemic symptoms (eg, night sweats, fever, weight loss)
+• Abdominal pain
+• Change in the stool frequency, caliber, or consistency of stools
+• Painful defecation
+• Evidence of anemia on laboratory testing
+    ┌─────┐         ┌────┐
+    │ Yes │         │ No │
+    └─────┘         └────┘
+      │              │
+      │              │
+      │              │
+Does the patient have any of the following risk factors for colonic disease?
+• History of GI blood loss
+• Colorectal cancer, colorectal polyps, hereditary colorectal cancer syndrome
+• Inflammatory bowel disease
+• Pelvic radiation therapy
+• Family history of inflammatory bowel disease
+• Family history of advanced colorectal polyps, colorectal cancer, or hereditary colorectal cancer syndrome

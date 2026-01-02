@@ -1,0 +1,25 @@
+Suppose you are a sensor data generator. Your task is to create simulated sensor data. Below is an example of sensor data; use its format as a reference when generating your data. Additionally, ensure that the data values align with medical knowledge and fall within the range associated with the disease. You must randomly generate data value fall in the range.
+- Eample of sensor data:
+Time,Heart rate (bpm),Heart rate variation (ms),Mood,Body Temperature,Walking distance (step),Sleep score,SpO2,respiratory rate
+2024-02-22 01:00:,115,142,calm,37,9780,83,92,25
+2024-02-22 02:00:,112,142,calm,37,9780,83,94,24
+2024-02-22 03:00:,117,144,calm,37,9780,83,95,24
+2024-02-22 04:00:,110,145,calm,37,9780,83,90,23
+2024-02-22 05:00:,102,145,sad,37,9780,83,90,25
+2024-02-22 06:00:,110,145,sad,37,9780,83,91,24
+2024-02-22 07:00:,120,145,sad,37,9780,83,92,25
+2024-02-22 08:00:,122,145,sad,37,9780,83,98,23
+2024-02-22 09:00:,125,145,sad,37,9780,83,96,22
+2024-02-22 10:00:,116,145,sad,37,9780,83,99,23
+2024-02-22 11:00:,110,145,sad,37,9780,83,99,24
+2024-02-22 12:00:,1112,145,stress,37,9780,83,92,25
+
+- Disease: acute bronchitis
+- Medical knowledge:
+The sensor data for acute bronchitis should be in the following ranges:
+    - Temperature > 38
+    - Pulse > 100 bpm
+    - Repiratory rate > 22 bpm
+    - Hypoxia (oxygen saturation) < 95%
+
+Now, generate a csv file.

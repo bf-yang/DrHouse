@@ -1,0 +1,53 @@
+The image is a flowchart titled "Mild acne vulgaris: Approach to treatment." Here is the text extracted from the flowchart:
+
+Assess for complications warranting more aggressive treatment:
+- Acne scarring
+- Disfiguring postinflammatory hyperpigmentation or postinflammatory erythema
+- Significant psychological distress
+
+Absent ---------------------------------- Present
+    |                                         |
+    |                                         |
+Assess lesion types                   Manage as moderate to
+                                         severe acne vulgaris*
+
+Comedonal lesions                    Papulopustular +/- 
+only                                       comedonal lesions
+    |                                         |
+Topical retinoid                        Topical retinoid and
+                                         benzoyl peroxide¶
+    |                                         |
+Satisfactory                             Satisfactory
+response                                 response
+    |                                         |
+Unsatisfactory                           Unsatisfactory 
+response                                 response
+    |                                         |
+Increase concentration                Add topical clindamycin∆
+of retinoid                                  or topical dapsone°
+or change to an alternate retinoid
+    |                                         |
+Satisfactory                             Satisfactory
+response                                 response
+    |                                         |
+Unsatisfactory                           Unsatisfactory 
+response                                 response
+    |                                         |
+Continue topical retinoid            Following stable improvement
+as maintenance therapy              for at least 3 to 6 months,
+                                         transition to retinoid monotherapy
+                                         as maintenance therapy
+                                         OR
+                                         Consider alternative topical therapies
+                                         (topical calcineurin inhibitor or topical minocycline§)
+                                         in conjunction with retinoid and benzoyl peroxide
+                                         OR
+                                         Manage as moderate to severe acne vulgaris*
+
+Mild acne vulgaris may be considered acne presenting with small, comedonal or papulopustular lesions without associated scarring. Skin involvement is typically limited to 1 body area or is associated with relatively few lesions in more than 1 body area. Nodules and near confluent skin involvement are absent. The response to acne therapies typically can be assessed after 3 months of treatment.
+
+* See "Moderate to severe acne vulgaris: Approach to treatment"
+¶ See "Topical retinoid and benzoyl peroxide combination therapy for acne vulgaris"
+∆ See "Topical clindamycin for acne vulgaris"
+° See "Topical dapsone for acne vulgaris"
+§ See "Topical calcineurin inhibitors and minocycline for acne vulgaris"

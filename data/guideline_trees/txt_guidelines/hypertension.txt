@@ -1,0 +1,10 @@
+Patient with elevated screening office blood pressure (ie, systolic pressure ≥130 mmHg and/or diastolic pressure ≥80 mmHg).
+Patient presenting with hypertensive emergency or severe asymptomatic hypertension (ie,systolic pressure > 180 mmHg or diastolic pressure ≥120 mmHg)?
+If yes: Hypertension diagnosed.
+If no: Is the office systolic blood pressure ≥ 160 mmHg, and/or is the office diastolic blood pressure ≥ 100 mmHg?
+	If yes: Does the patient have evidence for hypertension-related target organ damage,such as known ischemic heart disease, heart failure, left ventricular hypertrophy cerebrovascular disease,hypertensive retinopathy, or chronic kidney disease?
+		if yes: Hypertension diagnosed.
+	If no: Have the patient perform homeblood pressure monitoring?
+		Is the mean home blood pressure2130 mmHg systolic and/or≥80 mmHg diastolic?
+		if yes: Hypertension diagnosed.
+		if no: Possible white coat hypertension
